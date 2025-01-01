@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PLASMA_PARTS")(type "KiCad")(uri "${KIPRJMOD}/PLASMA_PARTS.pretty")(options "")(descr ""))
+)
